@@ -1,0 +1,20 @@
+{
+    "testing": {
+        "awscloudformation": {
+            "AuthRoleName": "test-app-testing-20200227111705-authRole",
+            "UnauthRoleArn": "arn:aws:iam::164164832181:role/test-app-testing-20200227111705-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::164164832181:role/test-app-testing-20200227111705-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "test-app-testing-20200227111705-deployment",
+            "UnauthRoleName": "test-app-testing-20200227111705-unauthRole",
+            "StackName": "test-app-testing-20200227111705",
+            "StackId": "arn:aws:cloudformation:eu-central-1:164164832181:stack/test-app-testing-20200227111705/355f2980-5931-11ea-a497-0239ee1f6632",
+            "AmplifyAppId": "d1k6pp9mleacm0"
+        },
+        "categories": {
+            "auth": {
+                "testapp816dba59": {}
+            }
+        }
+    }
+}
